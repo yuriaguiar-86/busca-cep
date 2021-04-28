@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a{
+    margin: 15px;
+}
+.busca{
+    display: flex;
+    flex-direction: row;
+    margin: 15px;
+}
+
+.main{
+    margin-top: 50px;
+}
+.tabela{
+    margin: 20px;
+    width: 100vh;
+}
